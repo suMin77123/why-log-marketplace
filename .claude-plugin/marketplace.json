@@ -1,0 +1,21 @@
+{
+  "name": "why-log-marketplace",
+  "owner": {
+    "name": "suMin77123"
+  },
+  "metadata": {
+    "description": "Why Log plugin marketplace",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "why-log",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/suMin77123/why-log.git"
+      },
+      "description": "Automatic decision logging for AI coding agents",
+      "version": "1.0.0"
+    }
+  ]
+}
